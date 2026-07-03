@@ -1,0 +1,6 @@
+{
+  "name": "Logistics Delivery Management",
+  "description": "Logistics operations platform with rate calculations, dynamic agent assignment, zone configuration, and live tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
